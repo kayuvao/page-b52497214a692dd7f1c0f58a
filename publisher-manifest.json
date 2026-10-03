@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "13be90846b36e38b8924e7a4",
+  "owner": "kayuvao",
+  "repo": "page-b52497214a692dd7f1c0f58a",
+  "title": "速游",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b52497214a692dd7f1c0f58a",
+      "a": "速游",
+      "b": "",
+      "entity": "速游",
+      "brand": "速游",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c2330f59201af8bfbde635958bb0fc205224f067077afe6b49c715358d904646",
+      "content": {
+        "keyword1": "速游",
+        "keyword2": "",
+        "primary_entity": "速游",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速游提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁与游戏加速。访问速游官网了解套餐、配置流程与官方下载说明。",
+          "AI_DESCRIPTION": "速游提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁与游戏加速。访问速游官网了解套餐、配置流程与官方下载说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#111827;background-color:#f3f4f6}a{color:#6d28d9;text-decoration:none}header{background-color:#5b21b6;color:#fff;padding:14px 16px} .header-inner{max-width:960px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px} .brand{font-size:1.25rem;font-weight:700;color:#fff} nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 14px} nav a{color:#fff;font-size:0.95rem} main{max-width:960px;margin:0 auto;padding:8px 16px 40px} h1{font-size:1.75rem;color:#4c1d95;margin:20px 0 12px;line-height:1.3} h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #ddd6fe} h3{font-size:1.1rem;color:#6d28d9;margin:18px 0 8px} p,li{margin:0 0 10px} ul{padding-left:1.2em} .card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:16px;margin-bottom:12px} .featured{border:2px solid #7c3aed;background:#faf5ff} .badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle} .price{font-size:1.25rem;font-weight:700;color:#4c1d95} .annual{font-size:0.9rem;color:#6b7280} .grid{display:grid;grid-template-columns:1fr;gap:12px} @media(min-width:640px){.grid-2{grid-template-columns:1fr 1fr}.plans{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}} .step{background:#fff;border-left:4px solid #7c3aed;padding:12px 16px;margin:10px 0;border-radius:0 8px 8px 0} details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin:8px 0} summary{font-weight:600;color:#4c1d95} details p{margin:8px 0 0;color:#374151} .ad-box{background:#ede9fe;border:1px dashed #7c3aed;padding:16px;margin:20px 0;border-radius:8px} footer{background:#1f2937;color:#d1d5db;padding:24px 16px;font-size:0.9rem} .footer-inner{max-width:960px;margin:0 auto} .links-list{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0;margin:8px 0 0} .sitemap-list{columns:2;padding-left:1.2em;margin:0}</style><header><div class=\"header-inner\"><a class=\"brand\" href=\"#\">速游官网</a><nav><ul><li><a href=\"#intro\">简介</a></li><li><a href=\"#scenes\">场景</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">下载</a></li><li><a href=\"#faq\">问答</a></li><li><a href=\"#links\">友链</a></li></ul></nav></div></header><main><h1>速游</h1><section id=\"intro\"><h2>速游品牌简介</h2><div class=\"grid grid-2\"><div class=\"card\"><p>速游是面向个人与团队的网络加速服务，以机场订阅为核心，配合多端 VPN 客户端，提供可切换的全球节点与清晰的配置流程。用户可按流量与设备数量选择套餐，用于跨境访问、流媒体播放与游戏加速。</p><p>本站为速游官方网站，套餐说明、客户端下载指引与订阅导入步骤均在此集中发布。请从官方渠道获取订阅地址，避免使用来路不明的配置文件。</p></div><div class=\"card\"><h3>服务要点</h3><ul><li>机场订阅可在 Clash、v2rayN 等客户端中更新节点</li><li>旗舰与团队套餐提供 IPLC 游戏向线路与流媒体解锁说明</li><li>配置流程按「开通—复制订阅—导入—测速连接」展开，适合首次使用</li><li>请遵守所在地区法律法规，仅将服务用于合法跨境办公与学习</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要观看海外影视或直播时，可在客户端中选择标注解锁的节点。旗舰版与团队版强调全节点原生流媒体能力，基础版覆盖常用平台的基础线路。实际可用性随目标站点策略变化，建议连接后在播放器中确认。</p><h3>远程办公与协作</h3><p>跨国会议、代码仓库与企业邮箱访问时，稳定的中转比单纯追求峰值带宽更重要。团队版支持更多同时在线设备与定制路由思路，适合小团队统一出口。</p><h3>游戏加速</h3><p>对延迟敏感的对战与登录，可优先尝试 IPLC 相关节点并在客户端内测速。不同运营商与时段表现不同，请以本地实测为准，不必依赖口头延迟数字。</p><h3>学术与资料检索</h3><p>访问期刊站点、公开数据集与开发者文档时，保持订阅定期更新即可。若某条线路被干扰，切换同区域备用节点通常比反复重装客户端更有效。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为速游当前固定套餐。流量为每月额度，年付价格按 10 个月计。设备数为同时在线上限，超出后可能出现抢占或限速，请按实际终端数量选择。</p><div class=\"grid plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\"><h2>配置流程</h2><p>速游强调把「能连上」写成可执行步骤。首次使用请按顺序完成，不要跳过更新订阅。下列说明适用于主流图形客户端，命令行用户可自行将订阅转为对应协议配置。</p><div class=\"step\"><h3>第一步：选择套餐并完成开通</h3><p>在官网选定基础版、旗舰版或团队版，按月或按年支付。开通后进入用户中心，确认套餐生效时间与剩余流量展示正常。若页面仍显示未开通，先刷新登录态再继续，避免复制到空订阅。</p></div><div class=\"step\"><h3>第二步：复制机场订阅地址</h3><p>在用户中心找到 Clash / 通用订阅入口，复制完整 URL。不要把链接发到公开群组。若提供多种格式，优先选择 Clash 或 SIP008/通用订阅，再按客户端文档转换。二维码与短链仅作辅助，仍以完整 HTTPS 地址为准。</p></div><div class=\"step\"><h3>第三步：下载并安装客户端</h3><p>Windows 可使用 Clash Verge 类图形客户端或 v2rayN；macOS 常用 ClashX Meta 或 Surge（付费软件需自行购买）；Android 使用 Clash Meta 系列；iOS 使用 App Store 内的 Shadowrocket、Stash 或 Quantumult X。系统代理权限、VPN 配置描述文件需在系统设置中允许。详见下方官方下载说明。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>打开客户端的订阅或 Profiles 页面，粘贴 URL，保存后立即点击更新。成功后应看到按地区分组的节点列表。若更新失败，检查系统时间、本地 DNS 与是否用另一网络下载订阅。导入后不要手动删改节点名称中的关键字段，以免下次更新冲突。</p></div><div class=\"step\"><h3>第五步：选择节点并开启系统代理</h3><p>先用延迟测试筛选同区域节点，再开启系统代理或 TUN 模式。浏览器需信任系统代理；部分应用要单独开允许局域网或 bypass。游戏类程序建议 TUN。连接后访问国际站点验证，再打开流媒体。无法访问时先换节点，再检查分流规则是否把目标走到了直连。</p></div><div class=\"step\"><h3>日常维护</h3><p>流量将尽时在用户中心扩容或等待次月重置（以套餐规则为准）。客户端升级后重新更新订阅。长期离线设备请在套餐允许范围内减少同时在线数。工单请附上客户端名称、系统版本与更新订阅时间，旗舰与团队用户走优先队列。</p></div></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>速游不绑定单一闭源安装包。官方网站提供各系统推荐客户端名称与导入方式，请从开源仓库发布页或应用商店获取安装文件，再用本站订阅地址导入。切勿下载来路不明的「破解加速器」。iOS 应用均为付费或商店应用，费用与速游套餐分开结算。</p><div class=\"grid grid-2\"><div class=\"card\"><h3>桌面端</h3><p>Windows：Clash Verge 或 v2rayN，导入订阅后开启系统代理。macOS：ClashX Meta，或使用 Surge 的策略组对接同一订阅。首次启动若提示安装网络扩展，请在系统设置中允许。</p><p><a href=\"#download\">Windows 客户端说明</a> · <a href=\"#download\">macOS 客户端说明</a></p></div><div class=\"card\"><h3>移动端</h3><p>Android：Clash Meta for Android，授予 VPN 权限后更新配置。iOS：在 App Store 安装支持订阅的客户端，扫描或粘贴订阅，开启 VPN 开关。企业设备若禁止 VPN，需由管理员放行。</p><p><a href=\"#download\">Android 客户端说明</a> · <a href=\"#download\">iOS 导入说明</a></p></div></div><h3>节点与线路说明</h3><p>节点池覆盖亚太、北美与欧洲常用入口，普通线路与游戏向 IPLC 分区展示。延迟、丢包随本地运营商与时段变化，客户端内测速比任何宣传数字更可信。流媒体解锁以旗舰、团队套餐说明为准，若某平台策略调整，以工单公告为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>速游机场订阅如何购买、续费和查看剩余流量？</summary><p>在速游官网选择套餐完成支付后，于用户中心查看到期时间与剩余流量。续费可按月或按年，年付对应页面标示的优惠价。流量按自然月或套餐周期重置，具体以开通时展示的规则为准，请勿在流量耗尽后强行多设备挂机。</p></details><details><summary>官方客户端下载在哪里？和第三方安装包有何区别？</summary><p>请通过本页「客户端下载」章节了解各系统推荐软件名称，并从开源发布页或应用商店获取。速游提供的是机场订阅，不是来路不明的一体安装包。使用非官方修改版可能导致订阅泄露或无法更新节点。</p></details><details><summary>如何把订阅导入 Clash 或其他加速器？</summary><p>复制用户中心的订阅 URL，在客户端的订阅/配置页粘贴并更新。Clash 系一般直接识别；其他客户端按文档选择对应协议。导入成功的标志是出现分组节点而非报错页。若失败，先核对链接完整性与设备时间。</p></details><details><summary>基础版、旗舰版、团队版同时在线设备如何理解？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台指同一时刻建立代理隧道的终端数量，手机、电脑、平板分别计数。短时超出可能被踢下线或限速。家庭共用请选旗舰；工作室多终端请选团队版并规划路由。</p></details><details><summary>看视频卡顿或游戏延迟高应当怎样处理？</summary><p>先更新订阅，再在同区域节点间切换并看客户端延迟与丢包。视频优先选解锁标识节点并避免绕路过远；游戏优先尝试 IPLC 相关线路并改用 TUN。仍不稳定时更换本地网络（例如避开拥堵 Wi-Fi）后再测，不要连续频繁重装客户端。</p></details><details><summary>速游和单一 VPN 有什么不同？</summary><p>速游采用机场订阅模式：一次订阅可在多个客户端更新整表节点，用户自行选线路。传统单一 VPN 往往只有固定入口。订阅模式更适合需要流媒体、游戏与办公切换的场景，但也要求用户完成导入与更新步骤，本页配置流程即为此编写。</p></details></section><section id=\"ads\"><h2>合作与展示</h2><div class=\"ad-box\"><p>广告位：云主机、域名与合规跨境办公工具合作展示。有意向的服务商请通过官方客服提交资料，经审核后以文字链形式出现在本区域。速游不在此放置弹窗或跳转脚本。</p><p><a href=\"#ads\">了解合作说明</a></p></div></section><section id=\"links\"><h2>友情链接</h2><ul class=\"links-list\"><li><a href=\"#\">客户端文档索引</a></li><li><a href=\"#guide\">配置流程速查</a></li><li><a href=\"#download\">官网下载说明</a></li><li><a href=\"#faq\">机场订阅问答</a></li><li><a href=\"#plans\">套餐对照</a></li><li><a href=\"#\">网络诊断备忘</a></li></ul></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"sitemap-list\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐与订阅</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><p>© 速游官方网站。本页介绍机场订阅、VPN 梯子网络加速与客户端下载路径，内容与标题、描述保持一致。</p><p>使用加速服务时请遵守当地法律法规。链接均为页内锚点，便于在手机浏览器中阅读与跳转。</p></div></footer>",
+          "hash": "65e550633d43b917591fe6db96c1f4bedfa737f7eb9b4cfda8ae62e5a99334fa",
+          "seo": {
+            "title": "速游官网 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "速游,速游VPN,速游机场,速游加速器,梯子,网络加速,机场订阅,客户端下载,官网下载,IPLC加速",
+            "description": "速游提供稳定高速的VPN梯子与机场订阅服务，支持多端客户端下载，覆盖流媒体解锁与游戏加速。访问速游官网了解套餐、配置流程与官方下载说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "carxx.cn",
+    "host": "p-9a60f55910.carxx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "carxx.cn",
+      "url": "https://carxx.cn/",
+      "label": "奇异のtravel",
+      "apex": "carxx.cn",
+      "kind": null,
+      "identity": "qtygwkgvm/page-03158230d79fedcbc08a9923"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9fe82cc7980f9f7a4c3c473df733d842953255ea994d4a4d3c3842f50b2c3f61",
+    "sitemap.xml": "01174024feea2b69badb0a3becffbc698fb4cbc152cd5490af143737da200a7c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8b88474ef0499c998e8b4eb825df49aca42a3f9375984042f4ee99c7f2934d2",
+    "robots.txt": "53a2c49b0fcad550a035333b9a083d4cf36c6074a2940cae42913fe22bc07f69",
+    "19272389437253ab026f2802b081e233.txt": "6dd51a80630585f1ba8b7bb7e8d978d3d33c5386b0d90535f90b969b23d7f9d7"
+  },
+  "revision": "ba3aa18b4e428f177003b0c701a0d849d87a4d998f89a8a08c241b78f39c1e84"
+}
